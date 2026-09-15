@@ -1,0 +1,39 @@
+{
+  "name": "krayin-module-skills",
+  "version": "1.0.0",
+  "description": "Free and open-source Agent Skills for Krayin CRM modules \u2014 krayin-blog (module blog writer) and krayin-compat (module compatibility, security, UI and performance).",
+  "bin": {
+    "krayin-module-skills": "bin/install.js"
+  },
+  "type": "commonjs",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "bin/",
+    "Krayin-module-blog/",
+    "Krayin-module-compatible/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "krayin",
+    "krayin-crm",
+    "claude",
+    "claude-code",
+    "agent-skills",
+    "skills",
+    "laravel",
+    "webkul",
+    "crm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23gauravS/krayin-module-related-skills.git"
+  },
+  "homepage": "https://github.com/23gauravS/krayin-module-related-skills#readme",
+  "bugs": {
+    "url": "https://github.com/23gauravS/krayin-module-related-skills/issues"
+  },
+  "license": "MIT"
+}
